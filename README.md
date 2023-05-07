@@ -74,5 +74,5 @@
 ### ⚙️ GitHub statistics:
 
 <p align="center">
-<img height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chebart&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="chebart" />&nbsp
+<img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=chebart&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="chebart" />&nbsp
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=chebart&show_icons=true&locale=en&theme=vision-friendly-dark" alt="chebart" /></p>
