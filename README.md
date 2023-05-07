@@ -1,7 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/88379173/236679726-32646e29-81d1-4617-a161-7181abca366f.png)
 <h1 align="center">Hi 🖐️, I'm Chebart</h1>
 <h3 align="center">Junior Machine Learning Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/88379173/236686545-3512751c-da73-42ea-9cea-03c02dc0e01a.gif">
 
 <p align="left"> </p>
 
@@ -72,8 +71,11 @@
 ---
 
 ### ⚙️ GitHub statistics:
-
-<p width="400px">
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=chebart&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="chebart" />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=chebart&show_icons=true&locale=en&theme=vision-friendly-dark" alt="chebart" />
-</p>
+<table align="center">
+  <tbody>
+    <tr>
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=chebart&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" />
+      <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=chebart&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
+    </tr>
+  </tbody>
+</table>
