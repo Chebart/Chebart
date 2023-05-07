@@ -67,15 +67,8 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
     </p>
 </div>
-
 ---
 
 ### ⚙️ GitHub statistics:
-<table align="center">
-  <tbody>
-    <tr>
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=chebart&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" />
-      <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=chebart&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
-    </tr>
-  </tbody>
-</table>
+| <a> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=chebart&show_icons=true&locale=en&hide_border=true"/></a> | <a> <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=chebart&show_icons=true&locale=en&layout=compact&hide_border=true"/></a> |
+| ------------- | ------------- |
