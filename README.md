@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🖐️, I'm Chebart</h1>
 <h3 align="center">Junior Machine Learning Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/88379173/236686545-3512751c-da73-42ea-9cea-03c02dc0e01a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/88379173/236770414-0bd1967c-6cdd-4da2-8bda-4e02f9528868.gif">
 
 <p align="left"> </p>
 
