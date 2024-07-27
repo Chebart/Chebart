@@ -71,5 +71,5 @@
 ---
 
 ### ⚙️ GitHub statistics:
-| <a> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=chebart&show_icons=true&locale=en&hide_border=true"/></a> | <a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chebart&exclude_repo=witcher&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)</a> |
+| <a> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=chebart&show_icons=true&locale=en&hide_border=true"/></a> | <a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chebart&exclude_repo=witcher&hide_border=true&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)</a> |
 | ------------- | ------------- |
